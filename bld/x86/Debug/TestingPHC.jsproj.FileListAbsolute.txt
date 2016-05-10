@@ -1,0 +1,16 @@
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bin\x86\Debug\ReverseMap\resources.pri
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bin\x86\Debug\AppxManifest.xml
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bin\x86\Debug\TestingPHC.build.appxrecipe
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\ResourceHandlingTask.state
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\priconfig.xml
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\priconfig.xml.intermediate
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\layout.resfiles
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\layout.resfiles.intermediate
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\resources.resfiles
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\resources.resfiles.intermediate
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\pri.resfiles
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\pri.resfiles.intermediate
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\qualifiers.txt
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\qualifiers.txt.intermediate
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\JDA\DX\_FY16\PHC\src\TestingPHC\bld\x86\Debug\ProjectArchitectures.txt

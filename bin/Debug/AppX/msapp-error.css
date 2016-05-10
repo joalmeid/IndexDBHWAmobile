@@ -1,0 +1,43 @@
+﻿body {
+  margin: 40px 10px 10px 10px;
+  text-align: center;
+  font-family: Calibri;
+  background-color: white;
+  color:fe5c00;
+} 
+
+p,h1,progress 
+{
+    margin:10px 20px 10px ;
+    word-wrap:normal;
+	 color:#fe5c00;
+}
+
+h2 
+{
+    color:#fe5c00;
+    margin:10px;
+}
+
+.text
+{
+    color:#fe5c00;
+}
+
+.tip
+{
+    font-size:90%;
+    padding-left:20px;
+}
+
+.paramName
+{
+    font-size:105%;
+    color:black;
+    font-weight: bold;
+}
+
+.paramValue
+{
+    color:#fe5c00;
+}
